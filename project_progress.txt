@@ -2,3 +2,4 @@
 # EDA completed
 # Feature engineering completed
 # Model training completed
+# Model evaluation completed
